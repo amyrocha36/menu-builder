@@ -10,7 +10,7 @@ This project is a recipe-centric menu building and optimization program used for
                     *NOTE: currently in development, prices only applicable to California, USA*
 
 ##Technology##
-**Language**: Java
-**Database backend**: SQLite
-**Project management**: JIRA (scrum)
-**version control**: Github
+- **Language**: Java
+- **Database backend**: SQLite
+- **Project management**: JIRA (scrum)
+- **version control**: Github
